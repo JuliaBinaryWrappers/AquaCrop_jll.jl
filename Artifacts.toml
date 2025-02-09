@@ -1,0 +1,337 @@
+[[AquaCrop]]
+arch = "aarch64"
+git-tree-sha1 = "bf907b2d51faf0e531014ead74659449dc2c31cc"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[AquaCrop.download]]
+    sha256 = "af013a83d8a4cb1a066ee62d2053c4e091cdb56f81f002b8ee5206f6d98c2a99"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "aarch64"
+git-tree-sha1 = "f1978c807881e437794425e83fdc554c1617573b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "ef7fd68ac1ddd783fe0f1c1a42ce7a4c8eed139ea3c1187cb1a537fd585a97b0"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "aarch64"
+git-tree-sha1 = "ab2fa9fab7d90a30faaa25a3d98606807ad1e3cd"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "6b0bbc0530dea5428094c28c7d9b3eec724214deae1d4cbf1e7aea1d386426d1"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "aarch64"
+git-tree-sha1 = "b2fb8f46eb033e6a44d0a7c2280de5cfd314e467"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "9c179d54418a384dd65b6465dab00015c8be143f4b175735df7af7e1f544cb10"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "aarch64"
+git-tree-sha1 = "bffba0b758407232cd715ec4bd4f1bc383545ff5"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "326e8bd635ccddc1c5b0882de21c9615b34e5d568a59bac6255abb3011ef7b1e"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "aarch64"
+git-tree-sha1 = "5e264d6331b7956d00116db04ac69f967e5c34c8"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[AquaCrop.download]]
+    sha256 = "9d5f418d0dc63b654952d3802aed6520a1f227fd74d9cd28297f99595ecee3b8"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.aarch64-unknown-freebsd-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "aarch64"
+git-tree-sha1 = "fb4d6b773476e9895860baf09354a4bfccf0ce32"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[AquaCrop.download]]
+    sha256 = "49cae53b0ad99853179a1f22bf91a5e36b996fca802dfb49d0c2050e2e304544"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9381c091af11ac7fa4ed56d596e8347ccc151f13"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "d5ac365637ddc82c0d68a9d4402f3f867de044c4638d09b2a4743c26c9c37e44"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e128c63c7c648a50174398739f8b6b43c193fd3f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "74813d34b90ed3a265079f6c9cb5fb2949e34cc214f0cb3f5169c69fcab70533"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "21f788d3d385f97254c0124ef552a655071ddf1d"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "6229dc7d41b82ad21073633e22ddadd069d770616cfece2acf0d29448556e812"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1f0cb2a75bd8e04b73ad5ae148e25fd725b8b151"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "774b8bfaf32a49a2f00c249b5bbd9f91bf41339b7a85ea4c8be4764f94fdacd3"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8bd3d37cc8125da49e595890a18a4f1900abe993"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "c6158608273ed4a455593588ab8571381bbf708773d38b253750539f4ce1a709"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8f3f8efc089ce6ff52c63536ae1bbad9c177fd73"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "16641315e51ba6963d3c053cb1b61f526302686a03affb7542b261cddcf91512"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "404f1c605906a7b1783f961a30d385be362931bb"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "dc3f025262cb8d59b927af7d7c4452c20ff6d790276ccc9b7746470afb99aa14"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0e3b8842ae8daf10d921efd6b88390e95f295e2a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "66f45bf9a29a63cc4ad1765e70893a774c63fac1cb14a7e26729721fe748faf3"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "i686"
+git-tree-sha1 = "f6b5a6f8260962b49a1e3a222c892cfc8f802986"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "f76103e860667097a1628ca848b66374aa2132311c5ad015393703659fa461d7"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "i686"
+git-tree-sha1 = "188226f9365d1ea6b93643d9fc5139ae89602b26"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "c094bee89562e3cf4110077aaa1e034754bbeb0a5bd252cf67b1f5ee0c0f0258"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "i686"
+git-tree-sha1 = "70e4aabcb54c3b5f89920b93276ce35471dceb13"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "4462631fe67279fe17921d5f2776137e04f4f11fa25f71b43bd9f39bed31f116"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "i686"
+git-tree-sha1 = "8ceb297d28db54f30cad747ca3b3a3ecb43eb2aa"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "b0ed5478ac963de80c49d04b68d9f529525d31c6abdc792e83a40bf4e01dcd90"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "i686"
+git-tree-sha1 = "8fdb647b987532839623459394728fe8f66b652f"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[AquaCrop.download]]
+    sha256 = "c7fb8b6c6c48906ef8ac314333d1b4cddcd82505e2af26e751b73b5277641b21"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "i686"
+git-tree-sha1 = "fa6ecc9f3421e70c2f43ebfbc0577239251cf53d"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[AquaCrop.download]]
+    sha256 = "cfb3ef49e6d78bd5c2bc932febcf6c785131ddc31dd53f91378f175cd7f5a2b5"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "powerpc64le"
+git-tree-sha1 = "27939aa2ed0518a5dcf263f18c43c00f35aa1b20"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "926a2075a416a3ae956e76f43557a06d0ec5a0629c4e4a27c747826e1d75b571"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "powerpc64le"
+git-tree-sha1 = "3ca85f9860624f3a63ca8fc9fa85394b0177eeb2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "e8ba4c2cab608afd9010dbfd7e7e5fda86f4fb93a3cf35f893e397d2a944d8b7"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "riscv64"
+git-tree-sha1 = "ed9d71e69e51ec552da62db449dc0951453cd62c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "1799926c46997d60eee4a7eedba632d635f04ee2ecea68570e8d35bf2014de4f"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.riscv64-linux-gnu-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "c3e5b5ed018c08564bd35d9955fa719836e636eb"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[AquaCrop.download]]
+    sha256 = "98c5103cd1e6c116de4a18231870b98bc9fa3de4350491a0823b7126b3d5959d"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "99baceecb2e1e73376ecd218cfc8a5af41ff5a19"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[AquaCrop.download]]
+    sha256 = "2a31b8f916698c88d7c9a00a87f0761922eb0d16245dc5cc12761fcbd84ae06a"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "ce640bc8c43941bcaded7e9555b0f9072961360b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "0345d1ef508432d8a05f674a9d99966dc8c6cb60cb17f0b16c6193876110d320"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "f6fe8713c5ae11de9c34767df46ff8e7dd62018b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "ad8cc3f6ab65683f813302512ffb88e5512609dc22a61a14827da22e8bec8897"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "2934feee6a75be9c7476b7175e23360cbc43beea"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "1270ae406c1ffda099ca0b4603cc268d996bb5c3ce39c9bb61180ac411621ca0"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "a4589c6664b435727cd8699e2e72dcb251dd7eb8"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AquaCrop.download]]
+    sha256 = "cd2f3c4adeb2366a6bdecc0af9655ed5f35a3e87e0f97baea2681584cc97639c"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "a89d403510e35fe4475c49f0c1febf9da8d68b7e"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[AquaCrop.download]]
+    sha256 = "68ec9dae69c2e6a6704652c07952a8f97148be8179ba394360bb08b9116d76cc"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "ff2d7e3bf28e5c7905a908d3ad590058fc49fd5b"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[AquaCrop.download]]
+    sha256 = "7ef8bf0912885d1700889f54ef664b64bbb3e069cccec6ac85cd3b8b20bef68a"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "6bf94d105af0170a42ee29a0caf5550492ffef9a"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[AquaCrop.download]]
+    sha256 = "f8f6a501ac557889cf672d2703988c50ab7176d5b432c54fee91e59b615c714c"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[AquaCrop]]
+arch = "x86_64"
+git-tree-sha1 = "32ab26f1044fb11f5e4bf8899641751cc7e2c519"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[AquaCrop.download]]
+    sha256 = "fd52c95550ce640b234dd046f60915c33414a41f26083648627e45ef09c9217d"
+    url = "https://github.com/JuliaBinaryWrappers/AquaCrop_jll.jl/releases/download/AquaCrop-v7.1.0+0/AquaCrop.v7.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
